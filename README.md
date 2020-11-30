@@ -76,7 +76,7 @@ Discussed in **chapter 3**
 
 ## Security
 
-please contact: `<mailto: sam@freighttrust.com>`for bugs/security issues, thank you.
+please contact: `<mailto: sam@manifoldfinance.com>`for bugs/security issues, thank you.
 
 ## License
 
